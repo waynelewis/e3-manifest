@@ -17,7 +17,7 @@
 
   <!-- Base & Require --> 
   <project path="0.epics-base"    name="e3-base"         revision="refs/tags/7.0.3.1-NA/R-7.0.3.1-683a893-1911142215"     groups="base" />
-  <project path="0.00.require"    name="e3-require"      revision="refs/tags/7.0.3.1-3.1.2/R-3.1.2-b02bfff-1911181214"    groups="require" remote="waynelewis" />
+  <project path="0.00.require"    name="e3-require"      revision="refs/tags/7.0.3.1-3.1.2/R-3.1.2-a8e01b8-1212181449"    groups="require" remote="waynelewis" />
  
   
   <!-- Common Modules -->
